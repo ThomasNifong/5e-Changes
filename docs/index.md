@@ -149,7 +149,6 @@ Description:<br>
 You become encased in Ice until the start of your next turn. You are immune to all types of damage other than psychic until the Ice is destroyed. You have total cover but creatures can still see you. The Ice has an AC of 10 and 5d10 HP. The Ice is immune to Cold and Psychic damage and vulnerable to Fire.
 </details>
 
-
 <details> 
   <summary>Magic Resistance</summary>
 Level: 4<br>
@@ -165,6 +164,71 @@ Touch a willing creature. They have advantage on saving throws against spells an
 
 ### Conjuration ###
 
+<details> 
+  <summary>Magic Resistance</summary>
+Level: 4<br>
+School: Abjuration<br>  
+Classes: Bard, Cleric, Sorcerer, Wizard<br>  
+Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
+Duration: Concentration, up to 1 Hour<br>  
+Casting Time: 1 Action<br>  
+Range: Touch<br>  
+Description:<br>  
+Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+</details>
+
+<details> 
+  <summary>Tiger Crush</summary>
+Level: 4<br>
+School: Abjuration<br>  
+Classes: Bard, Cleric, Sorcerer, Wizard<br>  
+Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
+Duration: Concentration, up to 1 Hour<br>  
+Casting Time: 1 Action<br>  
+Range: Touch<br>  
+Description:<br>  
+Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+</details>
+
+<details> 
+  <summary>Screech</summary>
+Level: 4<br>
+School: Abjuration<br>  
+Classes: Bard, Cleric, Sorcerer, Wizard<br>  
+Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
+Duration: Concentration, up to 1 Hour<br>  
+Casting Time: 1 Action<br>  
+Range: Touch<br>  
+Description:<br>  
+Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+</details>
+
+<details> 
+  <summary>Shell Defense</summary>
+Level: 4<br>
+School: Abjuration<br>  
+Classes: Bard, Cleric, Sorcerer, Wizard<br>  
+Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
+Duration: Concentration, up to 1 Hour<br>  
+Casting Time: 1 Action<br>  
+Range: Touch<br>  
+Description:<br>  
+Touch a willing creature. They have advantage on saving throws against spells and 
+</details>
+
+<details> 
+  <summary>Boulder</summary>
+Level: 5<br>
+School: Abjuration<br>  
+Classes: Bard, Cleric, Sorcerer, Wizard<br>  
+Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
+Duration: Concentration, up to 1 Hour<br>  
+Casting Time: 1 Action<br>  
+Range: Touch<br>  
+Description:<br>  
+Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+</details>
+
 	2.	(Druid, Ranger) Tiger Crush - As prt of this spell, you may leap up to 20 ft in a straight line and make a melee spell attack against one target within 5 ft of you, dealing 3d10 on a hit. If the target fails a strength save they are knocked prone. 
 		Then, if the target is prone you may make another melee spell attack as a bonus	action dealing 3d8 damage. 
 	3.	(Bard, Warlock) Psychic Screech - Hostile creatures within 30 feet are stunned
@@ -179,9 +243,57 @@ Touch a willing creature. They have advantage on saving throws against spells an
 
 ### Divination ###
 
+<details> 
+  <summary>Portent</summary>
+Level: 1<br>
+School: Abjuration<br>  
+Classes: Bard, Cleric, Druid, Sorcerer, Wizard<br>  
+Components: S, V, M (An unmarked icosahedron)<br>  
+Duration: 8 Hours<br>  
+Casting Time: 1 Action<br>  
+Range: Self<br>  
+Description:<br>  
+Roll 1d20 and record the result. For 8 hours, you can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls.
+</details>
 
+<details> 
+  <summary>Inspection</summary>
+Level: 4<br>
+School: Abjuration<br>  
+Classes: Bard, Cleric, Sorcerer, Wizard<br>  
+Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
+Duration: Concentration, up to 1 Hour<br>  
+Casting Time: 1 Action<br>  
+Range: Touch<br>  
+Description:<br>  
+Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+</details>
 
-1.(Bard, Cleric, Druid) Portent - Roll 1d20 and record the result. For 8 hours, you can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls.
+<details> 
+  <summary>Scan</summary>
+Level: 4<br>
+School: Abjuration<br>  
+Classes: Bard, Cleric, Sorcerer, Wizard<br>  
+Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
+Duration: Concentration, up to 1 Hour<br>  
+Casting Time: 1 Action<br>  
+Range: Touch<br>  
+Description:<br>  
+Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+</details>
+
+<details> 
+  <summary>Forethought</summary>
+Level: 4<br>
+School: Abjuration<br>  
+Classes: Bard, Cleric, Sorcerer, Wizard<br>  
+Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
+Duration: Concentration, up to 1 Hour<br>  
+Casting Time: 1 Action<br>  
+Range: Touch<br>  
+Description:<br>  
+Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+</details>
 
 (Wizard, Ranger, Sorcerer) Inspection - You may investigate and disable a single trap or hazard as if you were Proficient with Investigation, Survival and Thieves Tools. Use your spell attack modifier instead of your skill modifier.
 	3.	(Ranger, Wizard) Scan - You may cast this spell at the entrance of a chamber. You know the exact location of any creature, door, hazard, trap and treasure in the chamber at the time you cast the spell. You and your allies have 
@@ -191,11 +303,50 @@ Touch a willing creature. They have advantage on saving throws against spells an
 
 ### Enchantment ###
 
+<details> 
+  <summary>Rage</summary>
+Level: 4<br>
+School: Abjuration<br>  
+Classes: Bard, Cleric, Sorcerer, Wizard<br>  
+Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
+Duration: Concentration, up to 1 Hour<br>  
+Casting Time: 1 Action<br>  
+Range: Touch<br>  
+Description:<br>  
+Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+</details>
+
 	3.	(Bard, Ranger, Sorcerer, Wizard) Rage - Choose one creature within range. 30 ft. Until the spell ends, the target gains 10 ft. of movement speed, resistance to all non-magical weapon attacks, and advantage on Strength checks and Strength saving throws. Additionally
 		the creature's base AC becomes 13 and the creature benefits from the extra attack (1) feature, the Danger Sense feature, deals an additional 3 damage on melee weapon attacks and may use the Reckless Attack feature. The creature cannot cast spells until the affect ends.
 		If the target is a hostile creature, that creature makes a CHA save to avoid the affect. It makes this save at the end of each round.
 
 ### Evocation ###
+
+<details> 
+  <summary>Disruption</summary>
+Level: 4<br>
+School: Abjuration<br>  
+Classes: Bard, Cleric, Sorcerer, Wizard<br>  
+Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
+Duration: Concentration, up to 1 Hour<br>  
+Casting Time: 1 Action<br>  
+Range: Touch<br>  
+Description:<br>  
+Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+</details>
+
+<details> 
+  <summary>Arclight</summary>
+Level: 2<br>
+School: Evocation<br>  
+Classes: Bard, Druid, Wizard, Sorcerer<br>  
+Components: S, V, M (Two halves of a grape)<br>  
+Duration: Instant<br>  
+Casting Time: 1 Action<br>  
+Range: 90 ft.<br>  
+Description:<br>  
+Target two creatures within 20 ft. of eachother.  Each targeted creature must make a Dexterity saving throw. Each creature takes 4d10 lightning damage on a failed save, or half as much damage on a successful one. If either creature fails the save, both fail.
+</details>
 
 	1. (Paladin, Sorcerer, Wizard) Disruption - Ranged Spell Attack, 40 ft., one target, 4d6 radiant damage. If the target is undead, make the spell attack roll with advantage.
 	2. (Bard, Druid, Wizard, Sorcerer) Arc Light - 90 ft. two targets within 20 ft. of eachother, 4d10 lightning damage. Each target makes a Dex save. If both succeed, they each take half damage.
