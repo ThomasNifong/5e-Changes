@@ -123,9 +123,45 @@ Instead of rolling a saving throw, determine the minimum d20 roll a creature nee
 
 ### Abjuration ###
 
-	1. (Bard, Paladin) Block and Tackle - Must be wielding a shield. Reaction. You add your casting ability modifer against one melee attack that would hit you. If the attack does not hit, the attacker is pushed back 10 feet and is prone.
-	2. (Bard, Druid, Wizard, Sorcerer) Ice Block - Reaction. You become encased in Ice until the start of your next turn. You are immune to all types of damage other than psychic until the Ice is destroyed. The Ice has an AC of 10 and 5d10 HP Immune to Cold and Psychic damage and Vulnerable to Fire.
-	4. (Druid, Ranger, Sorcerer, Wizard) Magic Resistance - Touch a willing creature. For one hour they have advantage on saves against magical effects.
+<details> 
+  <summary>Block and Tackle</summary>
+Level: 1<br>
+School: Abjuration<br>  
+Classes: Bard, Paladin, Ranger<br>  
+Components: S, Must be wielding a shield<br>  
+Duration: Instant<br>  
+Casting Time: Special<br>  
+Range: Self<br>  
+Description:<br>  
+1 Reaction, You add your casting ability modifer to your AC against one melee attack that would hit you. The attacker must succeed on a Strength saving throw or be pushed 10 ft. away from you and knocked prone.
+</details>
+
+<details> 
+  <summary>Ice Block</summary>
+Level: 2<br>
+School: Abjuration<br>  
+Classes: Bard, Druid, Wizard, Sorcerer<br>  
+Components: S, M (A vial of tears)<br>  
+Duration: Instant<br>  
+Casting Time: 1 Reaction<br>  
+Range: Self<br>  
+Description:<br>  
+You become encased in Ice until the start of your next turn. You are immune to all types of damage other than psychic until the Ice is destroyed. You have total cover but creatures can still see you. The Ice has an AC of 10 and 5d10 HP. The Ice is immune to Cold and Psychic damage and vulnerable to Fire.
+</details>
+
+
+<details> 
+  <summary>Magic Resistance</summary>
+Level: 4<br>
+School: Abjuration<br>  
+Classes: Bard, Cleric, Sorcerer, Wizard<br>  
+Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
+Duration: Concentration, up to 1 Hour<br>  
+Casting Time: 1 Action<br>  
+Range: Touch<br>  
+Description:<br>  
+Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+</details>
 
 ### Conjuration ###
 
@@ -143,8 +179,11 @@ Instead of rolling a saving throw, determine the minimum d20 roll a creature nee
 
 ### Divination ###
 
-	1.	(Bard, Cleric, Druid) Portent - Roll 1d20 and record the result. For 8 hours, you can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls.
-		(Wizard, Ranger, Sorcerer) Inspection - You may investigate and disable a single trap or hazard as if you were Proficient with Investigation, Survival and Thieves Tools. Use your spell attack modifier instead of your skill modifier.
+
+
+1.(Bard, Cleric, Druid) Portent - Roll 1d20 and record the result. For 8 hours, you can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls.
+
+(Wizard, Ranger, Sorcerer) Inspection - You may investigate and disable a single trap or hazard as if you were Proficient with Investigation, Survival and Thieves Tools. Use your spell attack modifier instead of your skill modifier.
 	3.	(Ranger, Wizard) Scan - You may cast this spell at the entrance of a chamber. You know the exact location of any creature, door, hazard, trap and treasure in the chamber at the time you cast the spell. You and your allies have 
 			advantage on initiative rolls in combat with the creatures and advantage on saving throws to avoid conditions or damage caused by the hazards and traps.
 		(Bard, Druid, Warlock, Wizard, Sorcerer) - Opportunity. Duration 1 Hour. 1 Bonus action. For the next round in combat, you and 3 allies can't be surprised, have advantage on attack rolls, ability checks and saving throws. Additionally, other creatures
