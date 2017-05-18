@@ -85,7 +85,7 @@ Players decide when to use double-blind active skills. As an action, a player ca
 <i><u>Persuasion</u>:</i>    
 `If the result of a player's Persuasion skill check exceeds a monster's CHA modifier + 12, the monster finds the player's persuasion agreeable.`    
 
-`If a player's Persuation skill modifier + 10 meets or exceeds a monster's CHA modifier + 12 and the monster is the same type as the player, the monster does not treat the player as hostile. A player receives a -1 penalty to their Persuasion skill modifier for each level of alignment difference between the player and the monster.`    
+`If a player's passive persuasion score meets or exceeds a monster's CHA modifier + 12 and the monster is the same type as the player, the monster does not treat the player as hostile. A player receives a -1 penalty to their Persuasion skill modifier for each level of alignment difference between the player and the monster.`    
 
 <i><u>Stealth</u>:</i>    
 `If the result of a player's Stealth skill check exceeds a monster's passive perception, the monster does not know the space the player occupies and the player is hidden.` 
