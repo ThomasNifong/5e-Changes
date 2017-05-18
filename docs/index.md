@@ -152,7 +152,7 @@ Necromancy
 
 	1. (Sorcerer, Wizard) Bone Cage - 50 ft. Create a cage of ghostly bones at a space you can see on the ceiling. It falls directly downward. Any creature in the space below the cage must make a Dex Save. 1d6 for every 10 ft and Restrained. Half if saves.
 	2. (Cleric, Sorcerer, Wizard) Corpse Explosion - Target the corpse of a creature that has died within the last minute. Any creature standing in the space of the corpse takes 13 damage. Additionally, each creature within 5 ft. makes a Dexterity save. 3d8 or half if succeeds.
-	3. (Ranger) Coup De Gras - Make a weapon attack as part of casting this spell. If the target is incapacitated, paralyzed, restrained or stunned the attack automatically hits and deals damage as if you scored a critical. Also, the target takes an additional 6d6 necrotic damage.
+	3. (Ranger, Sorcerer, Wizard) Coup De Gras - Make a weapon attack as part of casting this spell. If the target is incapacitated, paralyzed, restrained or stunned the attack automatically hits and deals damage as if you scored a critical. Also, the target takes an additional 6d6 necrotic damage.
 	4. (Druid, Ranger, Wizard, Sorcerer) Conjure Poison - Create a dose of Malice, Torpor or Wyvern Poison. The poison created by this effect disappears one hour after casting the spell. 
 	5. (Cleric, Druid, Wizard, Sorcerer) Death Knell - Target one dead creature. For one hour you may cast false life (3rd level) and vampric touch at will. Additionally, you make spell attacks with +2 bonus on rolls to hit and damage and the DC of your spells increases by 2. Additionally,
 		any undead with 9 or less intelligence are not immediately hostile to you. Resistance to necrotic damage. 
