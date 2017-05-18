@@ -106,7 +106,7 @@ If the player's spell attack roll meets or exceeeds the monster's ability defens
 
 When a large number of monsters are affected by a spell, forgo saving throws in favor of approximating the average number monsters that would make of successful saves. 
 
-`Instead of rolling a saving throw, determine the minimum d20 roll a creature needs in order to successfully save against a spell by subtracing its saving throw or ability modifier from the spell DC. Look up the minimum d20 roll needed on the Mob Defense table. The table shows you how many creatures that need that die roll or higher must make a saving throw in order for one of them to successfully save. If that many creatures make a saving throw, then one of them will save on average.`
+Instead of rolling a saving throw, determine the minimum d20 roll a creature needs in order to successfully save against a spell by subtracing its saving throw or ability modifier from the spell DC. Look up the minimum d20 roll needed on the Mob Defense table. The table shows you how many creatures that need that die roll or higher must make a saving throw in order for one of them to successfully save. If that many creatures make a saving throw, then one of them will save on average.
 
 | Mob Defense     |                                         |
 |-----------------|-----------------------------------------|
@@ -118,6 +118,7 @@ When a large number of monsters are affected by a spell, forgo saving throws in 
 | 17-18           | 5                                       |
 | 19              | 10                                      |
 | 20              | 20                                      |
+
 ## New Spells ##
 
 ### Abjuration ###
