@@ -357,19 +357,6 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 ### Necromancy ###
 
 <details> 
-  <summary>Spooky Boots</summary>
-Level: 1<br>
-School: Necromancy<br>  
-Classes: Bard, Ranger, Sorcerer, Wizard<br>  
-Components: S<br>  
-Duration: 10 minutes<br>  
-Casting Time: 1 Action<br>  
-Range: Self<br>  
-Description:<br>
-Dress your feet with ghostly slippers, making your footfalls softer. For the duration, enemies that cannot see you and enemies with keen hearing have disadvantage on Wisdom (Perception) checks to detect you. Enemies with echolocation can't see you and you cannot be detected by Tremorsense. Additionally, you take no damage from falling.
-</details>
-
-<details> 
   <summary>Falling Cage</summary>
 Level: 1<br>
 School: Necromancyn<br>  
