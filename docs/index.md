@@ -239,19 +239,6 @@ Conjure a rolling Sphere in an adjacent square. At the end of your turn it moves
 ### Divination ###
 
 <details> 
-  <summary>Portent</summary>
-Level: 1<br>
-School: Divination<br>  
-Classes: Bard, Cleric, Druid, Sorcerer, Wizard<br>  
-Components: S, V, M (An unmarked icosahedron)<br>  
-Duration: 8 Hours<br>  
-Casting Time: 1 Action<br>  
-Range: Self<br>  
-Description:<br>  
-Roll 1d20 and record the result. For 8 hours, you can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls.
-</details>
-
-<details> 
   <summary>Inspection</summary>
 Level: 1<br>
 School: Divination<br>  
@@ -265,16 +252,16 @@ You may investigate and disable a single trap or hazard as if you were Proficien
 </details>
 
 <details> 
-  <summary>Scan</summary>
-Level: 3<br>
+  <summary>Portent</summary>
+Level: 1<br>
 School: Divination<br>  
-Classes: Bard, Cleric, Sorcerer, Wizard<br>  
-Components: S<br>  
-Duration: Instant<br>  
+Classes: Bard, Cleric, Druid, Sorcerer, Wizard<br>  
+Components: S, V, M (An unmarked icosahedron)<br>  
+Duration: 8 Hours<br>  
 Casting Time: 1 Action<br>  
-Range: Touch<br>  
+Range: Self<br>  
 Description:<br>  
-You may cast this spell at the entrance of a chamber. You know the exact location of any creature, door, hazard, treasure and traps as well as the result of activating any trap in the chamber at the time you cast the spell. You and your allies have advantage on initiative rolls in combat with the creatures and advantage on saving throws to avoid conditions or damage caused by the hazards and traps.
+Roll 1d20 and record the result. For 8 hours, you can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You may only have one result recorded at any time.
 </details>
 
 <details> 
@@ -290,24 +277,34 @@ Description:<br>
 For the next round in combat, you and 3 allies within range can't be surprised, have advantage on attack rolls, ability checks and saving throws. Additionally, other creatures have disadvantage on attack rolls against you.
 </details>
 
+<details> 
+  <summary>Scan</summary>
+Level: 3<br>
+School: Divination<br>  
+Classes: Bard, Cleric, Sorcerer, Wizard<br>  
+Components: S<br>  
+Duration: Instant<br>  
+Casting Time: 1 Action<br>  
+Range: Touch<br>  
+Description:<br>  
+You may cast this spell at the entrance of a chamber. You know the exact location of any creature, door, hazard, treasure and traps as well as the result of activating any trap in the chamber at the time you cast the spell. You and your allies have advantage on initiative rolls in combat with the creatures and advantage on saving throws to avoid conditions or damage caused by the hazards and traps.
+</details>
+
 ### Enchantment ###
 
 <details> 
   <summary>Rage</summary>
-Level: 4<br>
-School: Abjuration<br>  
+Level: 3<br>
+School: Enchantment<br>  
 Classes: Bard, Cleric, Sorcerer, Wizard<br>  
 Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
 Duration: Concentration, up to 1 Hour<br>  
 Casting Time: 1 Action<br>  
-Range: Touch<br>  
+Range: 30 ft.<br>  
 Description:<br>  
-Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+Choose one creature within range. 30 ft. Until the spell ends, the target's base AC becomes 13 and the target gains 10 ft. of movement speed, advantage on Strength checks and Strength saving throws, extra attack (1). When the target makes a melee weapon attack using strength it gains 3 bonus damage. Addtionally, the target has resistance to bludgeoning, piercing, and
+slashing damage and has advantage on Dexterity saving throws against effects that it can see, such as traps and spells (To gain this benefit, the target can't be blinded, deafened, or incapacitated). The target cannot cast spells until the affect ends. If the target is a hostile creature, that creature may make a CHA save. At the end of each of its turns, the target can make another CHA saving throw. On a success, the spell ends on the target.
 </details>
-
-	3.	(Bard, Ranger, Sorcerer, Wizard) Rage - Choose one creature within range. 30 ft. Until the spell ends, the target gains 10 ft. of movement speed, resistance to all non-magical weapon attacks, and advantage on Strength checks and Strength saving throws. Additionally
-		the creature's base AC becomes 13 and the creature benefits from the extra attack (1) feature, the Danger Sense feature, deals an additional 3 damage on melee weapon attacks and may use the Reckless Attack feature. The creature cannot cast spells until the affect ends.
-		If the target is a hostile creature, that creature makes a CHA save to avoid the affect. It makes this save at the end of each round.
 
 ### Evocation ###
 
