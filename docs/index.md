@@ -437,7 +437,7 @@ All creatures in combat reroll initiative. The new results must be used until th
 </details>
 
 <details> 
-  <summary>Create Poison</summary>
+  <summary>Fetid Cloud</summary>
 Level: 2<br>
 School: Transmutation<br>  
 Classes: Druid, Ranger<br>  
