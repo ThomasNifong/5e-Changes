@@ -410,8 +410,6 @@ Description:<br>
 You attempt to finish your target with one attack. Make a weapona ttack as part of casting this spell. If the target is incapacitated, paralyzed, restrained or stunned, the attack automatically hits and deals damage as if you scored a critical. Also, the target takes an additional 6d8 necrotic damage.
 </details>
 
-	4. (Druid, Ranger, Wizard, Sorcerer) Conjure Poison - Create a dose of Malice, Torpor or Wyvern Poison. The poison created by this effect disappears one hour after casting the spell. 
-
 <details> 
   <summary>Create Poison</summary>
 Level: 4<br>
@@ -440,14 +438,95 @@ Draw power from the spirit of a creature that has died within the last minute. F
 
 ### Transmutation ###
 
-	1.	(Bard, Wizard, Sorcerer) Save State - Reroll Initiative. The new initiative roll must be used until the end of combat.
-		(Druid, Ranger) Fetid Cloud - One Ally. Enemies within 10 ft. of the target can take either an action or a bonus action on its turn, not both, and can't take reactions.
-	2.	(Sorcerer, Wizard) Controlled Chaos - For the next minute, you may roll on the Wild Magic table once on each of your turns, ignoring any roll of 1 or 2. 
-	4.	(Cleric, Druid) Obliterate - Touch. Destroy one touched weapon or give a suit of armor a -5 penalty to its base AC. If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
-		Magical weapons and armor are unaffected by this spell.
-		(Bard) Sonic Weapon - Concentration, up to 1 minute. Creatures in a 15 ft. cone must make a Constitution saving throw. On a failed save, a creature takes 5d8 Thunder damage and is Deafened for 1 minute. On a successful save,
-		it takes have as much damage and isn't deafened by this spell. If you cast this spell in a chamber made of stone, affected creatures have disadvantage on this saving throw. You can create a new cone as your action on any turn until the spell ends.
-	5.	(Paladin) Invulnerability - For 1 minute, you have resistance to all damage except psychic and force. Additionally, you take no damage from non-magical piercing etc.
-		(Warlock) Power Overwhelming - For 1 minute, you do not become incapacitated if you are reduced to 0 HP and you do not die if you fail 3 death saving throws. Your melee weapon attacks deal an additional 2d8 necrotic damage to the target and up to two creatures adjacent to the target 
-		adjacent to the target.
+<details> 
+  <summary>Save State</summary>
+Level: 1<br>
+School: Transmutation<br>  
+Classes: Bard, Sorcerer, Wizard<br>  
+Components: S, V, M (A key that breaks when the spell is cast)<br>  
+Duration: Instant<br>  
+Casting Time: 1 Action<br>  
+Range: Self<br>  
+Description:<br>
+All creatures in combat reroll initiative. The new results must be used until the end of combat.
+</details>
+
+<details> 
+  <summary>Create Poison</summary>
+Level: 2<br>
+School: Transmutation<br>  
+Classes: Druid, Ranger<br>  
+Components: M (A crumb)<br>  
+Duration: Concentration, up to 1 minute<br>  
+Casting Time: 1 Action<br>  
+Range: Touch<br>  
+Description:<br>
+Touch a willing creature. For the duration, hostile creatures within 10 ft. of the target cannot take reactions. Any hostile creature that starts its turn in that area must succeed on a Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both.
+</details>
+
+<details> 
+  <summary>Controlled Chaos</summary>
+Level: 2<br>
+School: Transmutation<br>  
+Classes: Sorcerer, Wizard<br>  
+Components: S, V, M (A pear shaped trinket)<br>  
+Duration: Concentration, up to 1 minute<br>  
+Casting Time: 1 Action<br>  
+Range: Self<br>  
+Description:<br>
+For the duration, you may roll on the Wild Magic table once on each of your turns, ignoring any roll of 1 or 2. 
+</details>
+
+<details> 
+  <summary>Obliterate</summary>
+Level: 4<br>
+School: Transmutation<br>  
+Classes: Cleric, Druid<br>  
+Components: S<br>  
+Duration: Instant<br>  
+Casting Time: 1 Action<br>  
+Range: Touch<br>  
+Description:<br>
+Destroy one touched weapon or shield or give a suit of armor a permanent -5 penalty to its base AC. If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell. Magical weapons and armor are unaffected by this spell.
+</details>
+
+<details> 
+  <summary>Sonic Weapon</summary>
+Level: 4<br>
+School: Transmutation<br>  
+Classes: Bard<br>  
+Components: S, M (A musical instrument)<br>  
+Duration: Concentration, Up to 1 minute<br>  
+Casting Time: 1 Action<br>  
+Range: 15 ft.<br>  
+Description:<br>
+Creatures in a 15 ft. cone must make a Constitution saving throw. On a failed save, a creature takes 5d8 Thunder damage and is Deafened for 1 minute. On a successful save, it takes have as much damage and isn't deafened by this spell. If you cast this spell in a chamber made of stone, creatures have disadvantage on this saving throw. You can create a new cone as your action on any turn until the spell ends.
+</details>
+
+<details> 
+  <summary>Invulnerability</summary>
+Level: 5<br>
+School: Transmutation<br>  
+Classes: Paladin<br>  
+Components: S, M (Fish liver oil and powdered silver)<br>  
+Duration: Concentration, up to 1 minute<br>  
+Casting Time: 1 Action<br>  
+Range: Self<br>  
+Description:<br>  
+For 1 minute, you have resistance to all damage except psychic and force. Additionally, you take no damage from non-magical piercing etc.
+</details>
+
+<details> 
+  <summary>Power Overwhelming</summary>
+Level: 5<br>
+School: Transmutation<br>  
+Classes: Warlock<br>  
+Components: S, V<br>  
+Duration: Concentration, up to 1 minute<br>  
+Casting Time: 1  Bonus Action<br>  
+Range: Self<br>  
+Description:<br>  
+For 1 minute, you do not become incapacitated if you are reduced to 0 HP and you do not die if you fail 3 death saving throws. Your melee weapon attacks deal an additional 2d8 necrotic damage to the target and up to two creatures adjacent to the target.
+</details>
+
 
