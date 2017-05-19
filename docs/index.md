@@ -318,13 +318,41 @@ Target two creatures within 20 ft. of eachother.  Each targeted creature must ma
 
 ### Illusion ###
 
-	1.	(Bard, Ranger, Sorcerer, Wizard) Spook - For one hour, your footfalls are softer. Enemies that cannot see you and enemies with keen hearing have disadvantage on Wisdom (Perception) checks to detect you. 
-		Enemies with echolocation cannot see you. Additionally, you take no damage from falling.
-	3.	(Ranger) Active Camouflage. Gain the following benefits. 	Chameleon Skin. You have advantage on Dexterity (Stealth) checks made to hide.
-	
-	False Appearance. While you remain motionless, you are indistinguishable from a normal feature of the environment, such as a tree, a rock, or a piece of furniture.
+<details> 
+  <summary>Spooky Boots</summary>
+Level: 1<br>
+School: Illusion<br>  
+Classes: Bard, Ranger, Sorcerer, Wizard<br>  
+Components: S<br>  
+Duration: 10 minutes<br>  
+Casting Time: 1 Action<br>  
+Range: Self<br>  
+Description:<br>
+Dress your feet with ghostly slippers, making your footfalls softer. For the duration, enemies that cannot see you and enemies with keen hearing have disadvantage on Wisdom (Perception) checks to detect you. Enemies with echolocation can't see you and you cannot be detected by Tremorsense. Additionally, you take no damage from falling.
+</details>
 
-	Deimatic Behavior. Confusing Gaze.
+<details> 
+  <summary>Active Camouflage</summary>
+Level: 3<br>
+School: Illusion<br>  
+Classes: Ranger<br>  
+Components: S, V, M (Two leaves and a piece of string)<br>  
+Duration: Instant<br>  
+Casting Time: 1 Action<br>  
+Range: Self<br>  
+Description:<br>  
+You gain the following abilities:<br>
+Chameleon Skin. You have advantage on Dexterity (Stealth) checks made to hide.<br>  
+False Appearance. While you remain motionless, you are indistinguishable from a normal feature of the environment, such as a tree, a rock, or a piece of furniture.
+Deimatic Behavior. When a creature starts its turn within 30 feet of the umber hulk and is able to see the umber hulk's eyes, the umber hulk can magically force it to make a DC 15 Charisma saving throw, unless the umber hulk is incapacitated.
+
+On a failed saving throw, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during that turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action but uses all its movement to move in a random direction. On a 7 or 8, the creature makes one melee attack against a random creature, or it does nothing if no creature is within reach.
+
+Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the umber hulk until the start of its next turn, when it can avert its eyes again. If the creature looks at the umber hulk in the meantime, it must immediately make the save.<br>  
+<br>  
+</details>
+
+
   
 ### Necromancy ###
 
