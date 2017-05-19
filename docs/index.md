@@ -191,7 +191,7 @@ Hostile creatures within 30 ft. of you that can hear you make a Wisdom saving th
 </details>
 
 <details> 
-  <summary>Shell Defense</summary>
+  <summary>Scintillating Shell</summary>
 Level: 4<br>
 School: Conjuration<br>  
 Classes: Bard, Cleric, Sorcerer, Wizard<br>  
@@ -216,11 +216,7 @@ Casting Time: 1 Action<br>
 Range: Slef<br>  
 Description:<br>  
 Conjure a rolling Sphere in an adjacent square. At the end of your turn it moves 60 feet in a straight line. The sphere can move through creatures' spaces, and creatures can move through its space, treating it as difficult terrain. Whenever the sphere enters a creature's space or a creature enters its space while it's rolling, that creature must succeed on a Dexterity saving throw or take 10d10 bludgeoning damage and be knocked prone. If the sphere hits a wall or similar barrier its speed is reduced by 15 feet and it begins traveling in the opposite direction. If the sphere's speed drops to 0, it stops moving and is no longer a threat.
-</details>
-
-4.  (Druid, Ranger) Scintillating shell - You equip yourself with a magical shell.
-	
-		
+</details>		
 
 ### Divination ###
 
