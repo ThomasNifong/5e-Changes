@@ -246,7 +246,7 @@ Touch a willing creature. They have advantage on saving throws against spells an
 <details> 
   <summary>Portent</summary>
 Level: 1<br>
-School: Abjuration<br>  
+School: Divination<br>  
 Classes: Bard, Cleric, Druid, Sorcerer, Wizard<br>  
 Components: S, V, M (An unmarked icosahedron)<br>  
 Duration: 8 Hours<br>  
@@ -258,48 +258,42 @@ Roll 1d20 and record the result. For 8 hours, you can replace any attack roll, s
 
 <details> 
   <summary>Inspection</summary>
-Level: 4<br>
-School: Abjuration<br>  
-Classes: Bard, Cleric, Sorcerer, Wizard<br>  
-Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
-Duration: Concentration, up to 1 Hour<br>  
+Level: 1<br>
+School: Divination<br>  
+Classes: Ranger, Sorcerer, Wizard<br>  
+Components: S<br>  
+Duration: Instant<br>  
 Casting Time: 1 Action<br>  
 Range: Touch<br>  
 Description:<br>  
-Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+You may investigate and disable a single trap or hazard as if you were Proficient with Investigation, Survival and Thieves Tools. Use your spell attack modifier instead of your skill check modifier.
 </details>
 
 <details> 
   <summary>Scan</summary>
-Level: 4<br>
-School: Abjuration<br>  
+Level: 3<br>
+School: Divination<br>  
 Classes: Bard, Cleric, Sorcerer, Wizard<br>  
-Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
-Duration: Concentration, up to 1 Hour<br>  
+Components: S<br>  
+Duration: Instant<br>  
 Casting Time: 1 Action<br>  
 Range: Touch<br>  
 Description:<br>  
-Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+You may cast this spell at the entrance of a chamber. You know the exact location of any creature, door, hazard, treasure and traps as well as the result of activating any trap in the chamber at the time you cast the spell. You and your allies have advantage on initiative rolls in combat with the creatures and advantage on saving throws to avoid conditions or damage caused by the hazards and traps.
 </details>
 
 <details> 
   <summary>Forethought</summary>
-Level: 4<br>
-School: Abjuration<br>  
-Classes: Bard, Cleric, Sorcerer, Wizard<br>  
-Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
-Duration: Concentration, up to 1 Hour<br>  
-Casting Time: 1 Action<br>  
-Range: Touch<br>  
+Level: 3<br>
+School: Divination<br>  
+Classes: Bard, Druid, Sorcerer, Warlock, Wizard<br>  
+Components: S, V, M<br>  
+Duration: 1 Hour<br>  
+Casting Time: 1 Bonus Action<br>  
+Range: 30 ft.<br>  
 Description:<br>  
-Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+For the next round in combat, you and 3 allies within range can't be surprised, have advantage on attack rolls, ability checks and saving throws. Additionally, other creatures have disadvantage on attack rolls against you.
 </details>
-
-(Wizard, Ranger, Sorcerer) Inspection - You may investigate and disable a single trap or hazard as if you were Proficient with Investigation, Survival and Thieves Tools. Use your spell attack modifier instead of your skill modifier.
-	3.	(Ranger, Wizard) Scan - You may cast this spell at the entrance of a chamber. You know the exact location of any creature, door, hazard, trap and treasure in the chamber at the time you cast the spell. You and your allies have 
-			advantage on initiative rolls in combat with the creatures and advantage on saving throws to avoid conditions or damage caused by the hazards and traps.
-		(Bard, Druid, Warlock, Wizard, Sorcerer) - Opportunity. Duration 1 Hour. 1 Bonus action. For the next round in combat, you and 3 allies can't be surprised, have advantage on attack rolls, ability checks and saving throws. Additionally, other creatures
-			have disadvantage on attack rolls against you.
 
 ### Enchantment ###
 
@@ -369,7 +363,7 @@ Necromancy
 	5. (Cleric, Druid, Wizard, Sorcerer) Death Knell - Target one dead creature. For one hour you may cast false life (3rd level) and vampric touch at will. Additionally, you make spell attacks with +2 bonus on rolls to hit and damage and the DC of your spells increases by 2. Additionally,
 		any undead with 9 or less intelligence are not immediately hostile to you. Resistance to necrotic damage. 
 
-### Transmutaion ###
+### Transmutation ###
 
 	1.	(Bard, Wizard, Sorcerer) Save State - Reroll Initiative. The new initiative roll must be used until the end of combat.
 		(Druid, Ranger) Fetid Cloud - One Ally. Enemies within 10 ft. of the target can take either an action or a bonus action on its turn, not both, and can't take reactions.
