@@ -296,13 +296,13 @@ You may cast this spell at the entrance of a chamber. You know the exact locatio
   <summary>Rage</summary>
 Level: 3<br>
 School: Enchantment<br>  
-Classes: Bard, Cleric, Sorcerer, Wizard<br>  
-Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
+Classes: Bard, Wizard<br>  
+Components: S, V, M (A cloth of bear-fur)<br>  
 Duration: Concentration, up to 1 Hour<br>  
 Casting Time: 1 Action<br>  
 Range: 30 ft.<br>  
 Description:<br>  
-Choose one creature within range. 30 ft. Until the spell ends, the target's base AC becomes 13 and the target gains 10 ft. of movement speed, advantage on Strength checks and Strength saving throws, extra attack (1). When the target makes a melee weapon attack using strength it gains 3 bonus damage. Addtionally, the target has resistance to bludgeoning, piercing, and
+Choose one creature within range. Until the spell ends, the target's base AC becomes 13 and the target gains 10 ft. of movement speed, advantage on Strength checks and Strength saving throws, extra attack (1). When the target makes a melee weapon attack using strength it gains 3 bonus damage. Addtionally, the target has resistance to bludgeoning, piercing, and
 slashing damage and has advantage on Dexterity saving throws against effects that it can see, such as traps and spells (To gain this benefit, the target can't be blinded, deafened, or incapacitated). The target cannot cast spells until the affect ends. If the target is a hostile creature, that creature may make a CHA save. At the end of each of its turns, the target can make another CHA saving throw. On a success, the spell ends on the target.
 </details>
 
