@@ -191,29 +191,18 @@ Hostile creatures within 30 ft. of you that can hear you make a Wisdom saving th
 </details>
 
 <details> 
-  <summary>Screech</summary>
-Level: 4<br>
-School: Abjuration<br>  
-Classes: Bard, Cleric, Sorcerer, Wizard<br>  
-Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
-Duration: Concentration, up to 1 Hour<br>  
-Casting Time: 1 Action<br>  
-Range: Touch<br>  
-Description:<br>  
-Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
-</details>
-
-<details> 
   <summary>Shell Defense</summary>
 Level: 4<br>
-School: Abjuration<br>  
+School: Conjuration<br>  
 Classes: Bard, Cleric, Sorcerer, Wizard<br>  
-Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
-Duration: Concentration, up to 1 Hour<br>  
+Components: V, M (A snail shell)<br>  
+Duration: Concentration, up to 1 Minute<br>  
 Casting Time: 1 Action<br>  
-Range: Touch<br>  
+Range: Self<br>  
 Description:<br>  
-Touch a willing creature. They have advantage on saving throws against spells and 
+When you cast this spell, you equip yourself with a snail's shell for 1 Hour. For up to one minute starting when you cast the spell, the snail's shell emits dazzling, colored light. During this time, the shell sheds bright light in a 30-foot radius and dim light for an additional 30 feet. Hostile creatures in the area of bright light that can see you have disadvantage on their attack rolls against you.
+
+While equipped with the snail's shell, you may use your action to Hide inside the shell. While hidden, your shell provides total cover, and enemies cannot see you. You gain a +4 bonus to AC and cannot move until you emerge. You can emerge from its shell as a bonus action on its turn.
 </details>
 
 <details> 
@@ -231,10 +220,7 @@ Conjure a rolling Sphere in an adjacent square. At the end of your turn it moves
 
 4.  (Druid, Ranger) Scintillating shell - You equip yourself with a magical shell.
 	
-		When you cast this spell, the snail's shell emits dazzling, colored light for one minute. 
-		During this time, the shell sheds bright light in a 30-foot radius and dim light for an additional 30 feet. Hostile creatures in the a and hostile creatures that can see you have disadvantage on their attackrolls against you.
-
-		Shell Defense. You may use your action to Hide inside the shell. While hidden, your shell provides cover as a solid object, and enemies cannot see you. You gain a +4 bonus to AC and cannot move until you emerge. You can emerge from its shell as a bonus action on its turn.
+		
 
 ### Divination ###
 
