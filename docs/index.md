@@ -165,29 +165,29 @@ Touch a willing creature. They have advantage on saving throws against spells an
 ### Conjuration ###
 
 <details> 
-  <summary>Magic Resistance</summary>
-Level: 4<br>
-School: Abjuration<br>  
-Classes: Bard, Cleric, Sorcerer, Wizard<br>  
-Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
-Duration: Concentration, up to 1 Hour<br>  
+  <summary>Tiger Crush</summary>
+Level: 2<br>
+School: Conjuration<br>  
+Classes: Druid, Ranger<br>  
+Components: S, V<br>  
+Duration: Instant<br>  
 Casting Time: 1 Action<br>  
-Range: Touch<br>  
+Range: 5 ft.<br>  
 Description:<br>  
-Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+As part of this spell, you may leap up to 20 ft in a straight line and make a melee spell attack or melee weapon attack (Strength or Dexterity) against one target within 5 ft. of you, dealing 3d10 on a hit. If the target fails a strength save they are knocked prone. Then, if the target is prone you may make another melee spell attack or melee weapon attack (Strength or Dexterity) as a bonus action dealing 3d8 damage.
 </details>
 
 <details> 
-  <summary>Tiger Crush</summary>
-Level: 4<br>
+  <summary>Screech</summary>
+Level: 3<br>
 School: Abjuration<br>  
 Classes: Bard, Cleric, Sorcerer, Wizard<br>  
-Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
-Duration: Concentration, up to 1 Hour<br>  
+Components: V<br>  
+Duration: 1 Round<br>  
 Casting Time: 1 Action<br>  
-Range: Touch<br>  
+Range: 30 ft<br>  
 Description:<br>  
-Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+Hostile creatures within 30 ft. of you that can hear you make a Wisdom saving throw. If it fails the saving throw takes 3d6 Psychic damage and is stunned until the end of your next round. On a successful save the the creature takes half damage and is not stunned.
 </details>
 
 <details> 
@@ -323,16 +323,16 @@ Touch a willing creature. They have advantage on saving throws against spells an
 ### Evocation ###
 
 <details> 
-  <summary>Disruption</summary>
-Level: 4<br>
-School: Abjuration<br>  
-Classes: Bard, Cleric, Sorcerer, Wizard<br>  
-Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
-Duration: Concentration, up to 1 Hour<br>  
+  <summary>Disrupt Undead</summary>
+Level: 1<br>
+School: Evocation<br>  
+Classes: Paladin, Sorcerer, Wizard<br>  
+Components: S, V, M (Thin sheet of slate)<br>  
+Duration: Instant<br>  
 Casting Time: 1 Action<br>  
-Range: Touch<br>  
+Range: 40 ft.<br>  
 Description:<br>  
-Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+Make a ranged spell attack against one target in range. On a hit, the target takes 4d6 radiant damage. You have advantage on the attack roll if the target is a fiend or undead.
 </details>
 
 <details> 
@@ -347,9 +347,6 @@ Range: 90 ft.<br>
 Description:<br>  
 Target two creatures within 20 ft. of eachother.  Each targeted creature must make a Dexterity saving throw. Each creature takes 4d10 lightning damage on a failed save, or half as much damage on a successful one. If either creature fails the save, both fail.
 </details>
-
-	1. (Paladin, Sorcerer, Wizard) Disruption - Ranged Spell Attack, 40 ft., one target, 4d6 radiant damage. If the target is undead, make the spell attack roll with advantage.
-	2. (Bard, Druid, Wizard, Sorcerer) Arc Light - 90 ft. two targets within 20 ft. of eachother, 4d10 lightning damage. Each target makes a Dex save. If both succeed, they each take half damage.
 
 ### Illusion ###
 
