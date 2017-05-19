@@ -219,27 +219,22 @@ Touch a willing creature. They have advantage on saving throws against spells an
 <details> 
   <summary>Boulder</summary>
 Level: 5<br>
-School: Abjuration<br>  
-Classes: Bard, Cleric, Sorcerer, Wizard<br>  
-Components: S, V, M (Snake Skin and Jade Gemstone worth 100gp)<br>  
-Duration: Concentration, up to 1 Hour<br>  
+School: Conjuration<br>  
+Classes: Bard, Druid, Ranger, Sorcerer, Wizard<br>  
+Components: S, M (A steel marble)<br>  
+Duration: 1 Minute<br>  
 Casting Time: 1 Action<br>  
-Range: Touch<br>  
+Range: Slef<br>  
 Description:<br>  
-Touch a willing creature. They have advantage on saving throws against spells and other magical effects..
+Conjure a rolling Sphere in an adjacent square. At the end of your turn it moves 60 feet in a straight line. The sphere can move through creatures' spaces, and creatures can move through its space, treating it as difficult terrain. Whenever the sphere enters a creature's space or a creature enters its space while it's rolling, that creature must succeed on a Dexterity saving throw or take 10d10 bludgeoning damage and be knocked prone. If the sphere hits a wall or similar barrier its speed is reduced by 15 feet and it begins traveling in the opposite direction. If the sphere's speed drops to 0, it stops moving and is no longer a threat.
 </details>
 
-	2.	(Druid, Ranger) Tiger Crush - As prt of this spell, you may leap up to 20 ft in a straight line and make a melee spell attack against one target within 5 ft of you, dealing 3d10 on a hit. If the target fails a strength save they are knocked prone. 
-		Then, if the target is prone you may make another melee spell attack as a bonus	action dealing 3d8 damage. 
-	3.	(Bard, Warlock) Psychic Screech - Hostile creatures within 30 feet are stunned
-	4.  (Druid, Ranger) Scintillating shell - You equip yourself with a magical shell.
+4.  (Druid, Ranger) Scintillating shell - You equip yourself with a magical shell.
 	
 		When you cast this spell, the snail's shell emits dazzling, colored light for one minute. 
 		During this time, the shell sheds bright light in a 30-foot radius and dim light for an additional 30 feet. Hostile creatures in the a and hostile creatures that can see you have disadvantage on their attackrolls against you.
 
 		Shell Defense. You may use your action to Hide inside the shell. While hidden, your shell provides cover as a solid object, and enemies cannot see you. You gain a +4 bonus to AC and cannot move until you emerge. You can emerge from its shell as a bonus action on its turn.
-	5.	(Bard, Druid, Ranger, Wizard, Sorcerer) Rolling Rock - Conjure a rolling Sphere in an adjacent square. It moves 60 ft. per round in a direction you choose. If it crosses difficult terrain it deals half damage and loses 5 ft. of movement for each space it crosses.
-		If it collides with a wall or large object its speed is reduced by 30 ft. it deals half damage. 
 
 ### Divination ###
 
