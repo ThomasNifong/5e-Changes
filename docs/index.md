@@ -356,8 +356,6 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
   
 ### Necromancy ###
 
-Necromancy
-
 <details> 
   <summary>Spooky Boots</summary>
 Level: 1<br>
