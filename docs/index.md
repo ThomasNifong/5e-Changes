@@ -358,12 +358,85 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 
 Necromancy
 
-	1. (Sorcerer, Wizard) Bone Cage - 50 ft. Create a cage of ghostly bones at a space you can see on the ceiling. It falls directly downward. Any creature in the space below the cage must make a Dex Save. 1d6 for every 10 ft and Restrained. Half if saves.
-	2. (Cleric, Sorcerer, Wizard) Corpse Explosion - Target the corpse of a creature that has died within the last minute. Any creature standing in the space of the corpse takes 13 damage. Additionally, each creature within 5 ft. makes a Dexterity save. 3d8 or half if succeeds.
-	3. (Ranger, Sorcerer, Wizard) Coup De Gras - Make a weapon attack as part of casting this spell. If the target is incapacitated, paralyzed, restrained or stunned the attack automatically hits and deals damage as if you scored a critical. Also, the target takes an additional 6d6 necrotic damage.
+<details> 
+  <summary>Spooky Boots</summary>
+Level: 1<br>
+School: Necromancy<br>  
+Classes: Bard, Ranger, Sorcerer, Wizard<br>  
+Components: S<br>  
+Duration: 10 minutes<br>  
+Casting Time: 1 Action<br>  
+Range: Self<br>  
+Description:<br>
+Dress your feet with ghostly slippers, making your footfalls softer. For the duration, enemies that cannot see you and enemies with keen hearing have disadvantage on Wisdom (Perception) checks to detect you. Enemies with echolocation can't see you and you cannot be detected by Tremorsense. Additionally, you take no damage from falling.
+</details>
+
+<details> 
+  <summary>Falling Cage</summary>
+Level: 1<br>
+School: Necromancyn<br>  
+Classes: Sorcerer, Wizard<br>  
+Components: S, M (Dried Milk)<br>  
+Duration: Concentration, Up to 1 Minute<br>  
+Casting Time: 1 Action<br>  
+Range: 50 ft.<br>  
+Description:<br>
+Create a cage of ghostly bones on a space of ceiling directly over the target creature. The cage falls straight down immediately and the creature below the cage must make a Dexterity Save. It takes 1d6 bludgeoning damage for every 10 ft. the cage fell and it is restrained on a failed save. If the save is successul the creature takes half damage and is not restrained. While restrained by this spell, the target takes 1d6 piercing damage at the start of each of its turns. A creature restrained by the cage or one that can touch the creature can use its action to make a Strength (Athletics) check against your spell save DC. On a success, the target is freed.
+</details>
+
+<details> 
+  <summary>Corpse Explosion</summary>
+Level: 2<br>
+School: Necromancy<br>  
+Classes: Cleric, Sorcerer, Wizard<br>  
+Components: S, V, M (A scalpel)<br>  
+Duration: Instant<br>  
+Casting Time: 1 Action<br>  
+Range: 40 ft.<br>  
+Description:<br>
+Detonate the corpse of a creature that has died within the last minute. Any creature standing in the space the corpse occupies takes 13 damage. Additionally each creature within 5 ft of the corpse makes a Dexterity save. A creature takes 3d8 bludgeoning damage on a failed save. If the save is successful the creature takes half damage.
+</details>
+
+<details> 
+  <summary>Coup De Gras</summary>
+Level: 3<br>
+School: Illusion<br>  
+Classes: Ranger<br>  
+Components: S, Must be wielding a weapon<br>  
+Duration: Instant<br>  
+Casting Time: 1 Action<br>  
+Range: 30 ft.<br>  
+Description:<br>
+You attempt to finish your target with one attack. Make a weapona ttack as part of casting this spell. If the target is incapacitated, paralyzed, restrained or stunned, the attack automatically hits and deals damage as if you scored a critical. Also, the target takes an additional 6d8 necrotic damage.
+</details>
+
 	4. (Druid, Ranger, Wizard, Sorcerer) Conjure Poison - Create a dose of Malice, Torpor or Wyvern Poison. The poison created by this effect disappears one hour after casting the spell. 
-	5. (Cleric, Druid, Wizard, Sorcerer) Death Knell - Target one dead creature. For one hour you may cast false life (3rd level) and vampric touch at will. Additionally, you make spell attacks with +2 bonus on rolls to hit and damage and the DC of your spells increases by 2. Additionally,
-		any undead with 9 or less intelligence are not immediately hostile to you. Resistance to necrotic damage. 
+
+<details> 
+  <summary>Create Poison</summary>
+Level: 4<br>
+School: Necromancy<br>  
+Classes: Cleric, Ranger, Sorcerer, Wizard<br>  
+Components: S<br>  
+Duration: 1 Hour<br>  
+Casting Time: 1 Action<br>  
+Range: Self<br>  
+Description:<br>
+Create a dose of Malice, Torpor or Wyvern Poison. The poison created by this spell disappears one hour after casting the spell, even if it has not taken effect.
+</details>
+
+<details> 
+  <summary>Death Knell</summary>
+Level: 5<br>
+School: Necromancy<br>  
+Classes: Cleric, Druid, Sorcerer, Wizard<br>  
+Components: S, V<br>  
+Duration: 1 Hour<br>  
+Casting Time: 10 Minutes<br>  
+Range: Self<br>  
+Description:<br>
+Draw power from the spirit of a creature that has died within the last minute. For one hour you may cast False Life and Vampiric Touch as third level spells at will and you make spell attacks with +2 bonus on rolls to hit and damage and the DC of your spells increases by 2.  Additionally, any undead with 9 or less intelligence regard you as friendly until you do anything harmful to it.
+</details>
 
 ### Transmutation ###
 
