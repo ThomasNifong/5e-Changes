@@ -90,6 +90,7 @@ Players decide when to use double-blind active skills. As an action, a player ca
 <i><u>Stealth</u>:</i>    
 `If the result of a player's Stealth skill check exceeds a monster's passive perception, the monster does not know the space the player occupies and the player is hidden.` 
 
+
 ***
 
 # Spells #
@@ -514,4 +515,46 @@ Description:<br>
 For 1 minute, you do not become incapacitated if you are reduced to 0 HP and you do not die if you fail 3 death saving throws. Your melee weapon attacks deal an additional 2d8 necrotic damage to the target and up to two creatures adjacent to the target.
 </details>
 
+***
 
+# Monsters #
+
+## New Monsters ##
+
+### Shrines and Symbols ###
+
+A Shrine is an object dedicated to a deity or alignment. Creatures can activate a shrine to gain a benefit. A symbol is also a shrine, but a symbol can activate itself. A player interacts with a shrine by using the Religion skill. Shrines generally benefit creatures that are not of an opposing alignment or are friendly to the shrine's deity. Symbols target creatures that are of an opposing alignment or who support a hostile deity with effects that cause conditions or damage.
+
+`Shrines and symbols use a D8 hit die. A shrine has a caster level equal to its hit die, and casts one spell at its highest level at will. The spell must have a duration of at least up to 1 minute. Shrines act on initiative count 20. They have a base armor class of 11 and a Constitution score of 14. Their casting ability score is treated as 10, and increases by 2 for every 4 HD. They add their proficiency bonus to their AC. A shrine has resistance to cold, fire and lightning damage and is immune to poison and psychic damage. 
+
+A shrine can be activated or disabled by a successful Intelligence (Religion) check. The DC to activate or disable a shrine is the shrine's spellcasting DC. A player who activates a shrine may cast the spell once for the next 24 hours or choose to cast the spell when rolling for initiative without requiring an action or material components. A shrine is disabled when it is reduced to 0 HP. A creature can target a shrine with Dispel Magic. On a successful check, any spell cast by the shrine or a player who activated the shrine ends. A shrine that is disabled can re-activate after 24 hours unless it is destroyed. A shrine can only be destroyed while it is disabled.
+
+A shrine made of wood or fabric is a flammable object and can be ignited if it isn't being worn or carried. 
+A shrine made of stone or crystal is treated as a non-magical object when it makes a saving throw against a spell that causes a creature made of inorganic material such as stone or crystal to have disadvantage on a saving throw made to take only half damage or no damage.
+A shrine made of metal is treated as a non-magical object when it is subject to an effect that corrodes. If the shrine is subjected to an effect that corrodes it takes a permanent and cumulative -1 penalty its base armor class. If its penalty drops to -5, the shrine is destroyed.`
+
+<details> 
+  <summary>Standard Shrine of Aid (Tapestry)</summary>
+Armor Class: 13<br>
+Hit Points: 26 (4d8+8)<br>
+Damage Resistances: cold, fire, lightning<br>
+Damage Immunities: poison, psychic<br>
+A shrine made of wood or fabric is a flammable object and can be ignited if it isn't being worn or carried. <br>
+Challenge: 2 (450 XP)<br>
+A creature who prays to the Shrine of Aid for 10 minutes makes a DC 12 Intelligence (Religion) check. On a successful check the creature activates the shrine and may cast the spell once for the next 24 hours. The spell may be cast normally or the creature can choose to cast the spell when rolling for initiative without requiring an action or material components. If the shrine is disabled, the effects of any spell cast by a creature that activated the shrine ends and the creature cannot cast the spell may not until the shrine has been activated again.</details>
+
+
+<details> 
+  <summary>Epic Symbol of Fire (Crystal)</summary>
+Armor Class: 15<br>
+Hit Points: 78 (12d8+24)<br>
+Damage Resistances: cold, fire, lightning<br>
+Damage Immunities: poison, psychic<br>
+A shrine made of stone or crystal is treated as a non-magical object when it makes a saving throw against a spell that causes a creature made of inorganic material such as stone or crystal to have disadvantage on a saving throw made to take only half damage or no damage.<br>
+Challenge: 4 (1,150 XP)<br>
+Innate Spellcasting<br>
+
+The symbol's innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no components:
+
+At will: Wall of Flame<br>
+A creature attempting to disable the Symbol of Fire makes a DC 15 Intelligence (Religion) check. On a successful check the symbol is disabled for the next 24 hours. If the symbol is disabled, the effects of any spell cast by the symbol end and the symbol cannot cast the spell may not until it has been activated again.</details>
