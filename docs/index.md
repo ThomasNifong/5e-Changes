@@ -534,18 +534,40 @@ A shrine made of stone or crystal is treated as a non-magical object when it mak
 A shrine made of metal is treated as a non-magical object when it is subject to an effect that corrodes. If the shrine is subjected to an effect that corrodes it takes a permanent and cumulative -1 penalty its base armor class. If its penalty drops to -5, the shrine is destroyed.`
 
 <details> 
-  <summary>Standard Shrine of Aid (Tapestry)</summary>
+  <summary>Meager Symbol of Bane (Wood)</summary>
 Armor Class: 13<br>
-Hit Points: 26 (4d8+8)<br>
+Hit Points: 26 (4d8 + 8)<br>
+Damage Resistances: cold, fire, lightning<br>
+Damage Immunities: poison, psychic<br>
+A shrine made of stone or crystal is treated as a non-magical object when it makes a saving throw against a spell that causes a creature made of inorganic material such as stone or crystal to have disadvantage on a saving throw made to take only half damage or no damage.<br>
+Challenge: 1/2 (100 XP)<br>
+Innate Spellcasting<br>
+The symbol's innate spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no components:<br>
+At will: Bane<br><br>
+A creature attempting to disable the Symbol of Bane makes a DC 11 Intelligence (Religion) check as an action. On a successful check the symbol is disabled for the next 24 hours. If the symbol is disabled, the effects of any spell cast by the symbol end and the symbol cannot cast the spell may not until it has been activated again.</details>
+
+<details>
+  <summary>Standard Shrine of Aid (Tapestry)</summary>
+Armor Class: 14<br>
+Hit Points: 39 (6d8+12)<br>
 Damage Resistances: cold, fire, lightning<br>
 Damage Immunities: poison, psychic<br>
 A shrine made of wood or fabric is a flammable object and can be ignited if it isn't being worn or carried. <br>
-Challenge: 2 (450 XP)<br>
+Challenge: 1 (450 XP)<br><br>
 A creature who prays to the Shrine of Aid for 10 minutes makes a DC 12 Intelligence (Religion) check. On a successful check the creature activates the shrine and may cast the spell once for the next 24 hours. The spell may be cast normally or the creature can choose to cast the spell when rolling for initiative without requiring an action or material components. If the shrine is disabled, the effects of any spell cast by a creature that activated the shrine ends and the creature cannot cast the spell may not until the shrine has been activated again.</details>
 
+<details>
+  <summary>Bolstered Shrine of Protection from Energy (Iron)</summary>
+Armor Class: 15<br>
+Hit Points: 52 (8d8+16)<br>
+Damage Resistances: cold, fire, lightning<br>
+Damage Immunities: poison, psychic<br>
+A shrine made of metal is treated as a non-magical object when it is subject to an effect that corrodes. If the shrine is subjected to an effect that corrodes it takes a permanent and cumulative -1 penalty its base armor class. If its penalty drops to -5, the shrine is destroyed.<br>
+Challenge: 2 (450 XP)<br><br>
+A creature who prays to the Shrine of Protection from Energy for 10 minutes makes a DC 13 Intelligence (Religion) check. On a successful check the creature activates the shrine and may cast the spell once for the next 24 hours. The spell may be cast normally or the creature can choose to cast the spell when rolling for initiative without requiring an action or material components. If the shrine is disabled, the effects of any spell cast by a creature that activated the shrine ends and the creature cannot cast the spell may not until the shrine has been activated again.</details>
 
 <details> 
-  <summary>Epic Symbol of Fire (Crystal)</summary>
+  <summary>Epic Symbol of Fire (Stone)</summary>
 Armor Class: 15<br>
 Hit Points: 78 (12d8+24)<br>
 Damage Resistances: cold, fire, lightning<br>
@@ -553,8 +575,6 @@ Damage Immunities: poison, psychic<br>
 A shrine made of stone or crystal is treated as a non-magical object when it makes a saving throw against a spell that causes a creature made of inorganic material such as stone or crystal to have disadvantage on a saving throw made to take only half damage or no damage.<br>
 Challenge: 4 (1,150 XP)<br>
 Innate Spellcasting<br>
-
-The symbol's innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no components:
-
-At will: Wall of Flame<br>
-A creature attempting to disable the Symbol of Fire makes a DC 15 Intelligence (Religion) check. On a successful check the symbol is disabled for the next 24 hours. If the symbol is disabled, the effects of any spell cast by the symbol end and the symbol cannot cast the spell may not until it has been activated again.</details>
+The symbol's innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no components:<br>
+At will: Wall of Flame<br><br>
+A creature attempting to disable the Symbol of Fire makes a DC 15 Intelligence (Religion) check as an action. On a successful check the symbol is disabled for the next 24 hours. If the symbol is disabled, the effects of any spell cast by the symbol end and the symbol cannot cast the spell may not until it has been activated again.</details><br>
