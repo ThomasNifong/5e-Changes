@@ -281,7 +281,7 @@ Level: 3<br>
 School: Enchantment<br>  
 Classes: Bard, Wizard<br>  
 Components: S, V, M (A cloth of bear-fur)<br>  
-Duration: Concentration, up to 1 Hour<br>  
+Duration: Concentration, up to 1 minute<br>  
 Casting Time: 1 Action<br>  
 Range: 30 ft.<br>  
 Description:<br>  
