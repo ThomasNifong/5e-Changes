@@ -360,7 +360,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 <details> 
   <summary>Falling Cage</summary>
 Level: 1<br>
-School: Necromancyn<br>  
+School: Necromancy<br>  
 Classes: Sorcerer, Wizard<br>  
 Components: S, M (Dried Milk)<br>  
 Duration: Concentration, Up to 1 Minute<br>  
@@ -368,6 +368,19 @@ Casting Time: 1 Action<br>
 Range: 50 ft.<br>  
 Description:<br>
 Create a cage of ghostly bones on a space of ceiling directly over the target creature. The cage falls straight down immediately and the creature below the cage must make a Dexterity Save. It takes 1d6 bludgeoning damage for every 10 ft. the cage fell and it is restrained on a failed save. If the save is successul the creature takes half damage and is not restrained. While restrained by this spell, the target takes 1d6 piercing damage at the start of each of its turns. A creature restrained by the cage or one that can touch the creature can use its action to make a Strength (Athletics) check against your spell save DC. On a success, the target is freed.
+</details>
+
+<details> 
+  <summary>Putrefy Food and Drink</summary>
+Level: 1<br>
+School: Necromancy<br>  
+Classes: Cleric, Druid, Wizard<br>  
+Components: V, Sbr>  
+Duration: Instantaneous<br>  
+Casting Time: 1 Action<br>  
+Range: 10 ft.<br>  
+Description:<br>
+All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is infected with a disease. A creature that consumes some of the food becomes diseased for 8 hours. A creature subjected to this poison must succeed on a Constitution saving throw at the end of every hour, taking 1d8 poison damage on a failed save.
 </details>
 
 <details> 
