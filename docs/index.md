@@ -166,6 +166,19 @@ Touch a willing creature. They have advantage on saving throws against spells an
 ### Conjuration ###
 
 <details> 
+  <summary>Bear Trap</summary>
+Level: 1<br>
+School: Conjuration<br>  
+Classes: Ranger<br>  
+Components: S, V<br>  
+Duration: 1 Hour<br>  
+Casting Time: 1 Action<br>  
+Range: 5 ft.<br>  
+Description:<br>  
+This spell sets a magical trap with a saw-toothed steel ring that snaps shut when a creature steps on it. The trap is magically affixed to the ground and is hidden. The trap can be detected by a DC 20 Wisdom (Perception) check. A creature that steps on the plate must succeed on a Dexterity saving throw or take 3d4 piercing damage and stop moving. A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
+</details>
+
+<details> 
   <summary>Tiger Crush</summary>
 Level: 2<br>
 School: Conjuration<br>  
@@ -474,6 +487,19 @@ Casting Time: 1 Action<br>
 Range: Self<br>  
 Description:<br>
 For the duration, you may roll on the Wild Magic table once on each of your turns, ignoring any roll of 1 or 2. 
+</details>
+
+<details> 
+  <summary>Hunter's Bounty</summary>
+Level: 2<br>
+School: Conjuration<br>  
+Classes: Druid, Ranger<br>  
+Components: S, V<br>  
+Duration: Instant<br>  
+Casting Time: 1 Bonus Action<br>  
+Range: Touch<br>  
+Description:<br>  
+As part of this spell, you may leap up to 20 ft in a straight line and make a melee spell attack or melee weapon attack (Strength or Dexterity) against one target within 5 ft. of you, dealing 3d10 on a hit. If the target fails a strength save they are knocked prone. Then, if the target is prone you may make another melee spell attack or melee weapon attack (Strength or Dexterity) as a bonus action dealing 3d8 damage.
 </details>
 
 <details> 
